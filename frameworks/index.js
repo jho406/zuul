@@ -1,4 +1,5 @@
 module.exports.qunit = __dirname + '/qunit';
+module.exports.qunit2 = __dirname + '/qunit2';
 module.exports.tape = __dirname + '/tape';
 module.exports.jasmine = __dirname + '/jasmine';
 module.exports.jasmine2 = __dirname + '/jasmine2';
